@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "717557955661",
+    "firebase_url": "https://instgram1-65a21.firebaseio.com",
+    "project_id": "instgram1-65a21",
+    "storage_bucket": "instgram1-65a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717557955661:android:c7b7edaded083d5625b004",
+        "android_client_info": {
+          "package_name": "go.mic.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717557955661-5fti5oa5p2hs7dhtot6m6dhlnbsf50o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKAS9uZPhoou4IrDYryydzcPDdPQ9u-ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717557955661-5fti5oa5p2hs7dhtot6m6dhlnbsf50o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
